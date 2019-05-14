@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallet-Events", "Wallet-Events\Wallet-Events.csproj", "{F1CB5966-DE6F-4444-81C5-D927EF812D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{68671AA7-E195-43E6-846C-8B5EBD21B6C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1CB5966-DE6F-4444-81C5-D927EF812D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CB5966-DE6F-4444-81C5-D927EF812D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CB5966-DE6F-4444-81C5-D927EF812D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CB5966-DE6F-4444-81C5-D927EF812D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794BE981-92C3-4EF1-8653-57871AB98FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794BE981-92C3-4EF1-8653-57871AB98FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794BE981-92C3-4EF1-8653-57871AB98FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794BE981-92C3-4EF1-8653-57871AB98FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68671AA7-E195-43E6-846C-8B5EBD21B6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68671AA7-E195-43E6-846C-8B5EBD21B6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68671AA7-E195-43E6-846C-8B5EBD21B6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68671AA7-E195-43E6-846C-8B5EBD21B6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
